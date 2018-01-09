@@ -1,0 +1,7 @@
+```
+
+- Machu Pichu
+- Tokyo
+- Seattle
+
+```
